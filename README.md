@@ -7,6 +7,6 @@ The project has been the 1st course assignment, focused on building a complete E
 
 - Designing and constructing a data warehouse from scratch using a star schema, applying denormalization and design pattern principles.
 
-The full details can be found in the notebook file (HTML) and in the [Final Report (PDF)]([reports/final_report.pdf](הנדסת נתוני עתק - מטלה 1 - קבוצה 2 - עידן כנת, אופק שהרבני ואושרי מנדלאווי - דוח מסכם - 31.5.2025.pdf)), in the repo, written in **Hebrew**. 
+The full details can be found in the notebook file (HTML) and in the [Final Report (PDF)]([הנדסת נתוני עתק - מטלה 1 - קבוצה 2 - עידן כנת, אופק שהרבני ואושרי מנדלאווי - דוח מסכם - 31.5.2025.pdf]), in the repo, written in **Hebrew**. 
 
 The project's final grade - 93.
