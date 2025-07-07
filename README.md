@@ -1,7 +1,7 @@
 # ETL-Project - BigDataEngineering
 This project was a major part of a course I took - "Big Data Engineering" at TAU’s Faculty of Engineering, during the 3rd year of my studies (2025).
 
-The project has been the 1st course assignment, focused on building a complete ETL pipeline for the Olist online orders dataset (Brazil). The task included:
+The project has been the 1st course assignment. Along with my 2 partners, we focused on building a complete ETL pipeline for the Olist online orders dataset (Brazil). The task included:
 
 - Performing a detailed exploratory data analysis (EDA) procedure, specifically handling null values, duplicates, and logical inconsistencies.
 
